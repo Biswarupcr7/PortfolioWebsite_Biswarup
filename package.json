@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "masterPortfolio",
-  "homepage": ".",
+  "name": "PortfolioWebsite-Biswarup",
+  "homepage": "https://biswarupcr7.github.io/PortfolioWebsite_Biswarup/",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
